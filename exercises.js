@@ -220,4 +220,4 @@ function countChar (string,charact){
 function countBs(string){
   return countChar (string, "B");
 }
-console.log (countBs("BOBABEBI"));
+console.log (countBs("BOBABEBcI"));
