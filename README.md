@@ -1,1 +1,1 @@
-# Eloquent_Exercises by pattypico
+# Eloquent_Exercises by pattypico -ministack
